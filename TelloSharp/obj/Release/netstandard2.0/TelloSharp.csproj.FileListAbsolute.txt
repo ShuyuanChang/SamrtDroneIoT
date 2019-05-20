@@ -1,0 +1,9 @@
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloSharp\bin\Release\netstandard2.0\TelloSharp.deps.json
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloSharp\bin\Release\netstandard2.0\TelloSharp.dll
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloSharp\bin\Release\netstandard2.0\TelloSharp.pdb
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloSharp\obj\Release\netstandard2.0\TelloSharp.csprojAssemblyReference.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloSharp\obj\Release\netstandard2.0\TelloSharp.csproj.CoreCompileInputs.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloSharp\obj\Release\netstandard2.0\TelloSharp.AssemblyInfoInputs.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloSharp\obj\Release\netstandard2.0\TelloSharp.AssemblyInfo.cs
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloSharp\obj\Release\netstandard2.0\TelloSharp.dll
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloSharp\obj\Release\netstandard2.0\TelloSharp.pdb

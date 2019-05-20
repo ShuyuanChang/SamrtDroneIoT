@@ -1,0 +1,14 @@
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.0\TelloNetCore.csprojAssemblyReference.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.0\TelloNetCore.csproj.CoreCompileInputs.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.0\TelloNetCore.AssemblyInfoInputs.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.0\TelloNetCore.AssemblyInfo.cs
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.0\TelloNetCore.deps.json
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.0\TelloNetCore.runtimeconfig.json
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.0\TelloNetCore.runtimeconfig.dev.json
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.0\TelloNetCore.dll
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.0\TelloSharp.dll
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.0\TelloSharp.pdb
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.0\TelloNetCore.csproj.CopyComplete
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.0\TelloNetCore.pdb
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.0\TelloNetCore.dll
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.0\TelloNetCore.pdb

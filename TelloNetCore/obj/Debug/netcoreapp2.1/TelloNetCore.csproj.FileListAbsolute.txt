@@ -1,0 +1,4 @@
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.1\TelloNetCore.csprojAssemblyReference.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.1\TelloNetCore.csproj.CoreCompileInputs.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.1\TelloNetCore.AssemblyInfoInputs.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.1\TelloNetCore.AssemblyInfo.cs

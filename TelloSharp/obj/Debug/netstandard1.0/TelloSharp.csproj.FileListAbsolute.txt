@@ -1,0 +1,4 @@
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloSharp\obj\Debug\netstandard1.0\TelloSharp.csprojAssemblyReference.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloSharp\obj\Debug\netstandard1.0\TelloSharp.csproj.CoreCompileInputs.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloSharp\obj\Debug\netstandard1.0\TelloSharp.AssemblyInfoInputs.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloSharp\obj\Debug\netstandard1.0\TelloSharp.AssemblyInfo.cs

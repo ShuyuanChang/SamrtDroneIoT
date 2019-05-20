@@ -1,0 +1,17 @@
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.2\linux-arm64\libhostpolicy.so
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.2\linux-arm64\libhostfxr.so
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.2\linux-arm64\TelloNetCore
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.2\linux-arm64\TelloNetCore.deps.json
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.2\linux-arm64\TelloNetCore.runtimeconfig.json
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.2\linux-arm64\TelloNetCore.runtimeconfig.dev.json
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.2\linux-arm64\TelloNetCore.dll
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.2\linux-arm64\TelloNetCore.pdb
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.2\linux-arm64\TelloSharp.dll
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\bin\Debug\netcoreapp2.2\linux-arm64\TelloSharp.pdb
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.2\linux-arm64\TelloNetCore.csprojAssemblyReference.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.2\linux-arm64\TelloNetCore.csproj.CoreCompileInputs.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.2\linux-arm64\TelloNetCore.AssemblyInfoInputs.cache
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.2\linux-arm64\TelloNetCore.AssemblyInfo.cs
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.2\linux-arm64\TelloNetCore.csproj.CopyComplete
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.2\linux-arm64\TelloNetCore.dll
+C:\Users\shuychan\OneDrive - Microsoft\Documents\GitHub\SamrtDroneIoT\TelloNetCore\obj\Debug\netcoreapp2.2\linux-arm64\TelloNetCore.pdb
